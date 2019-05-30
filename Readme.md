@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Мария Евдокимова](https://up.htmlacademy.ru/adaptive/16/user/867641).
-* Наставник: [Влад Башилов](https://htmlacademy.ru/profile/id167603).
+* Студент: [Лев Кулаков](https://htmlacademy.ru/profile/id870943).
+* Наставник: [Егор Глебов](https://htmlacademy.ru/profile/beast).
 
 ---
 

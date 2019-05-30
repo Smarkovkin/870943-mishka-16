@@ -1,0 +1,26 @@
+//font
+$font-family-base: ("Open Sans", "Arial", sans-serif);
+$font-weight-regular: 400;
+$font-weight-bold: 700;
+$font-size-base: 15px;
+
+//colors
+$color-white: rgba(255, 255, 255, 1);
+$color-black: rgba(0, 0, 0, 1);
+$color-grey-brown: rgba(68, 68, 68, 1);
+$color-very-dark-brown: rgba(1, 0, 0, 1);
+$seafoam-blue: rgba(99, 209, 187, 1);
+$greeny-blue: rgba(86, 195, 178, 1);
+$light-grey: rgba(241, 241, 241, 1);
+$light-grey-border: rgba(236, 236, 236, 1);
+$grey-border: rgba(230, 230, 230, 1);
+$intro-ico: rgba(20, 144, 128, 1);
+
+//device width
+$tablet-width: 768px;
+$desktop-width: 1150px;
+$mobile-width-only: 767px;
+
+//retina
+$retina-dpi: 144dpi;
+$retina-dppx: 1.5dppx;
